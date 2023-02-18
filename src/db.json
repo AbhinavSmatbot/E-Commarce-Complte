@@ -1,0 +1,303 @@
+{
+  "seller": [
+    {
+      "name": "anil",
+      "email": "sadsada@gmail.com",
+      "password": "adwd@234",
+      "id": 1
+    },
+    {
+      "name": "rahul",
+      "email": "rahul@gmail.com",
+      "password": "awerq@234",
+      "id": 2
+    },
+    {
+      "name": "Abhinav",
+      "password": "Aer@54",
+      "email": "abhinav@smatbot.com",
+      "id": 3
+    },
+    {
+      "name": "Frew",
+      "password": "Ftadvg",
+      "email": "suryadesigner123@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "new",
+      "password": "new24",
+      "email": "new@132gmail,com",
+      "id": 5
+    },
+    {
+      "name": "qefwfqf23grg35",
+      "password": "rg3g3gvwevw",
+      "email": "swfwrf",
+      "id": 6
+    },
+    {
+      "name": "wegwegwegwegwgw",
+      "password": "wegwegwegewg",
+      "email": "23r23r32",
+      "id": 7
+    },
+    {
+      "name": "defrghjkl",
+      "password": "946546565",
+      "email": "pandeyabhinav786@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "deepak",
+      "password": "41223",
+      "email": "9393333142",
+      "id": 9
+    }
+  ],
+  "products": [
+    {
+      "name": "car",
+      "price": "51515",
+      "category": "wfmwe",
+      "color": "red",
+      "description": "5454545",
+      "image": "https://custpostimages.s3.ap-south-1.amazonaws.com/sb_images/temheader45img.png",
+      "id": 5
+    },
+    {
+      "name": "bike New Model",
+      "price": "51515",
+      "category": "ewd",
+      "color": "yellow",
+      "description": "ewdwedwe",
+      "image": "https://custpostimages.s3.ap-south-1.amazonaws.com/sb_images/abhinav+logo.png",
+      "id": 6
+    },
+    {
+      "name": "hfh",
+      "price": "455",
+      "category": "dfghjk",
+      "color": "blue",
+      "description": "erctfvygbhunj 5crvtybuhnj c5rrvtbyn",
+      "image": "https://custpostimages.s3.ap-south-1.amazonaws.com/sb_images/Medstar_Hospitals.png",
+      "id": 7
+    },
+    {
+      "name": "huv uyvuy",
+      "price": "4582580",
+      "category": "tybuy",
+      "color": "pink",
+      "description": "5drf6tgyu b7tv7tf7 7tvt7v  7tvt7v",
+      "image": "https://custpostimages.s3.ap-south-1.amazonaws.com/sb_images/land10.png",
+      "id": 8
+    },
+    {
+      "name": "smabot",
+      "price": "45151.82",
+      "category": "r6tgyhunm",
+      "color": "red",
+      "description": "ftgy y7b8 8yb8 8yu ",
+      "image": "https://custpostimages.s3.ap-south-1.amazonaws.com/sb_images/HomeCaptainRealEstate.png",
+      "id": 9
+    },
+    {
+      "name": "lmkn nin",
+      "price": "788552.752",
+      "category": "erghjk",
+      "color": "blue",
+      "description": "trt 6tyvty 7tv t7 7y 7y",
+      "image": "https://custpostimages.s3.ap-south-1.amazonaws.com/sb_images/BizzyBees.png",
+      "id": 10
+    },
+    {
+      "name": "gee",
+      "price": "4582580",
+      "category": "r6tgyhunm",
+      "color": "yellow",
+      "description": "rtyuibguoigiufi ug",
+      "image": "https://custpostimages.s3.ap-south-1.amazonaws.com/sb_images/Medstar_Hospitals.png",
+      "id": 11
+    },
+    {
+      "name": "ufiuergfiueriuger",
+      "price": "455",
+      "category": "ghch yuv uy",
+      "color": "red",
+      "description": "hjy hui kiugib ",
+      "image": "https://custpostimages.s3.ap-south-1.amazonaws.com/sb_images/land10.png",
+      "id": 12
+    },
+    {
+      "name": "test",
+      "price": "/85",
+      "category": "ewd",
+      "color": "yellow",
+      "description": "kug i tti 7iti7",
+      "image": "https://custpostimages.s3.ap-south-1.amazonaws.com/sb_images/srenter.png",
+      "id": 13
+    },
+    {
+      "name": "ufiuergfiueriuger",
+      "price": "455",
+      "category": "ewd",
+      "color": "pink",
+      "description": "kukb iu ",
+      "image": "https://custpostimages.s3.ap-south-1.amazonaws.com/sb_images/Marriott+Hotels.png",
+      "id": 14
+    },
+    {
+      "name": "phonw",
+      "price": "745182",
+      "category": "phonw",
+      "color": "pink",
+      "description": "adfas wegewgew ewewge",
+      "image": "https://custpostimages.s3.ap-south-1.amazonaws.com/sb_images/aiPage.png",
+      "id": 15
+    }
+  ],
+  "users": [
+    {
+      "name": "ufiuergfiueriuger",
+      "email": "",
+      "password": "fqefw",
+      "id": 1
+    },
+    {
+      "name": "gee",
+      "email": "rahul@gmail.com",
+      "password": "sdvvrwvrew",
+      "id": 2
+    },
+    {
+      "name": "abhi",
+      "email": "abhinav@smatbot.com",
+      "password": "45120",
+      "id": 3
+    },
+    {
+      "name": "for_body_test",
+      "email": "suryadesigner123@gmail.com",
+      "password": "47444",
+      "id": 4
+    },
+    {
+      "name": "test",
+      "email": "abhinav@smatbot.com",
+      "password": "412",
+      "id": 5
+    },
+    {
+      "name": "hfh",
+      "email": "9393333142",
+      "password": "741",
+      "id": 6
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 7
+    },
+    {
+      "name": "abhi",
+      "email": "rahul@gmail.com",
+      "password": "asasasa",
+      "id": 8
+    },
+    {
+      "name": "test",
+      "email": "abhinav@smatbot.com",
+      "password": "Abhi1234",
+      "id": 9
+    },
+    {
+      "name": "test",
+      "email": "abhinav@smatbot.com",
+      "password": "Abhi1234",
+      "id": 10
+    },
+    {
+      "name": "test",
+      "email": "abhinav@smatbot.com",
+      "password": "Abhi1234",
+      "id": 11
+    }
+  ],
+  "cart": [
+    {
+      "name": "car",
+      "price": "51515",
+      "category": "wfmwe",
+      "color": "red",
+      "description": "5454545",
+      "image": "https://custpostimages.s3.ap-south-1.amazonaws.com/sb_images/temheader45img.png",
+      "quantity": 2,
+      "productId": 5,
+      "userId": 5,
+      "id": 19
+    },
+    {
+      "name": "huv uyvuy",
+      "price": "4582580",
+      "category": "tybuy",
+      "color": "pink",
+      "description": "5drf6tgyu b7tv7tf7 7tvt7v  7tvt7v",
+      "image": "https://custpostimages.s3.ap-south-1.amazonaws.com/sb_images/land10.png",
+      "quantity": 3,
+      "productId": 8,
+      "userId": 5,
+      "id": 20
+    },
+    {
+      "name": "hfh",
+      "price": "455",
+      "category": "dfghjk",
+      "color": "blue",
+      "description": "erctfvygbhunj 5crvtybuhnj c5rrvtbyn",
+      "image": "https://custpostimages.s3.ap-south-1.amazonaws.com/sb_images/Medstar_Hospitals.png",
+      "quantity": 3,
+      "productId": 7,
+      "userId": 3,
+      "id": 22
+    },
+    {
+      "name": "bike New Model",
+      "price": "51515",
+      "category": "ewd",
+      "color": "yellow",
+      "description": "ewdwedwe",
+      "image": "https://custpostimages.s3.ap-south-1.amazonaws.com/sb_images/abhinav+logo.png",
+      "quantity": 1,
+      "productId": 6,
+      "userId": 9,
+      "id": 23
+    }
+  ],
+  "order": [
+    {
+      "email": "",
+      "address": "",
+      "contact": "",
+      "totalPrice": 1465,
+      "userId": 3,
+      "id": 1
+    },
+    {
+      "email": "rahul@gmail.com",
+      "address": "dcfsd msfiosf refre",
+      "contact": "9425939732",
+      "totalPrice": 1465,
+      "userId": 3,
+      "id": 2
+    },
+    {
+      "email": "abhinav@smatbot.com",
+      "address": "dcfsd msfiosf refre",
+      "contact": "9425939732",
+      "totalPrice": 100,
+      "userId": 3,
+      "id": 3
+    }
+  ]
+}
